@@ -20,8 +20,8 @@ Proyecto de práctica y experimentación con Dart y Flutter, enfocado en el apre
 |---------|---------|-------------|-----------|
 | **1** | Introducción a Flutter/Dart | Hola Mundo + Contador | ✔️ |
 | **2** | Fundamentos de Dart | Clases y objetos | ✔️ |
-| **3** | Widgets Básicos | UI de perfil | ❌ |
-| **4** | Navegación | App con 3 pantallas | ❌ |
+| **3** | Widgets Básicos | UI de perfil | ✔️ |
+| **4** | Navegación | App con 3 pantallas | ✔️ |
 | **5** | Formularios | Formulario con validación | ❌ |
 | **6** | Manejo de estado | Lista de tareas con Provider | ❌ |
 | **7** | Reto + repaso | Mini App funcional | ❌ |

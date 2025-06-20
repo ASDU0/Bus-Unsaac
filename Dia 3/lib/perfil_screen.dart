@@ -105,7 +105,7 @@ class _PerfilScreenState extends State<PerfilScreen> {
                   const SizedBox(height: 16),
                   // Nombre y descripción
                   const Text(
-                    'Jhon Jesus Quispe',
+                    'Jhon Jesus Quispe Machaca',
                     style: TextStyle(
                       fontSize: 24,
                       fontWeight: FontWeight.bold,
@@ -239,10 +239,10 @@ class _PerfilScreenState extends State<PerfilScreen> {
                     ),
                   ),
                   const SizedBox(height: 16),
-                  _buildInfoRow(Icons.email, 'jhon.quispe@unsaac.edu.pe'),
-                  _buildInfoRow(Icons.phone, '+51 987 654 321'),
+                  _buildInfoRow(Icons.email, '215422@unsaac.edu.pe'),
+                  _buildInfoRow(Icons.phone, '+51 955 884 165'),
                   _buildInfoRow(Icons.location_on, 'Cusco, Perú'),
-                  _buildInfoRow(Icons.calendar_today, 'Unido en Enero 2024'),
+                  _buildInfoRow(Icons.calendar_today, 'Unido en Octubre 2021'),
                   _buildInfoRow(Icons.work, 'UNSAAC - Estudiante'),
                 ],
               ),
